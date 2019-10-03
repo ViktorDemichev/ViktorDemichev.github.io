@@ -730,6 +730,10 @@ a:hover {
 }
 
 @media (max-width: 767px) {
+  header {
+    position: relative;
+    height: 40px;
+  }
   .menu {
     position: fixed;
     -webkit-box-orient: vertical;
@@ -761,6 +765,9 @@ a:hover {
   }
   .menu_link {
     font-size: 21px;
+  }
+  .subheader {
+    margin-top: 40px;
   }
   .subheader_phone {
     display: block;
