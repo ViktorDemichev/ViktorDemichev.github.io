@@ -732,7 +732,6 @@ a:hover {
     -webkit-box-align: center;
         -ms-flex-align: center;
             align-items: center;
-    width: 81%;
     top: 0;
     left: -100%;
     width: 50%;
@@ -845,14 +844,8 @@ a:hover {
 }
 
 @media (max-width: 575px) {
-  .menu_link {
-    font-size: 19px;
-  }
-  .menu_item {
-    margin: 35px auto 0 auto;
-  }
-  .subheader {
-    height: 60px;
+  .menu {
+    width: 81%;
   }
   .subheader_official {
     display: none;
