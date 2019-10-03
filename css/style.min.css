@@ -863,6 +863,9 @@ a:hover {
   .menu_item {
     margin: 35px auto 0 auto;
   }
+  .subheader {
+    height: 50px;
+  }
   .subheader_official {
     display: none;
   }
