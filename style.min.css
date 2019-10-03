@@ -730,6 +730,10 @@ a:hover {
 }
 
 @media (max-width: 767px) {
+  header {
+    position: relative;
+    height: 40px;
+  }
   .menu {
     position: fixed;
     -webkit-box-orient: vertical;
