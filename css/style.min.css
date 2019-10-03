@@ -731,7 +731,6 @@ a:hover {
 
 @media (max-width: 767px) {
   header {
-    position: relative;
     height: 40px;
   }
   .menu {
@@ -865,7 +864,7 @@ a:hover {
     margin: 35px auto 0 auto;
   }
   .subheader {
-    height: 60px;
+    height: 40px;
   }
   .subheader_official {
     display: none;
