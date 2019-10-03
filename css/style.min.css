@@ -865,6 +865,7 @@ a:hover {
   }
   .subheader {
     margin-top: 40px;
+    height: 60px;
   }
   .subheader_official {
     display: none;
